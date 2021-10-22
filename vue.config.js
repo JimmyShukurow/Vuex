@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath:'/Vue_router_vuex/'
+    publicPath:'/Vuex/'
 }
